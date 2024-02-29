@@ -64,7 +64,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 Clean & Green Food Waste Reduction. All rights reserved.</p>
+        <p>Green Food Waste Reduction</p>
     </footer>
 </body>
 </html>
